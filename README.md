@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sravyapetluri/leetCode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/sravyapetluri/leetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sravyapetluri/leetCode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sravyapetluri/leetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sravyapetluri/leetCode/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sravyapetluri/leetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/sravyapetluri/leetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/sravyapetluri/leetCode/tree/master/0118-pascals-triangle) |
+| [0268-missing-number](https://github.com/sravyapetluri/leetCode/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
@@ -38,12 +41,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sravyapetluri/leetCode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/sravyapetluri/leetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/sravyapetluri/leetCode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/sravyapetluri/leetCode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/sravyapetluri/leetCode/tree/master/0118-pascals-triangle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sravyapetluri/leetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
